@@ -3,7 +3,7 @@ title: lorem-ipsum
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: danh page
   description: ''
   robots: []
   extra: []
